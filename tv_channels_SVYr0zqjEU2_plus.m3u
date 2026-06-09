@@ -210,9 +210,9 @@ http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25832
 http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16519
 #EXTINF:-1 tvg-ID="yesdoku.il" tvg-name="IL: YES Docu HD" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Hebrew - YES TV",IL: YES Docu HD
 http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25834
-#EXTINF:-1 tvg-ID="yesisraelicinema.il" tvg-name="IL: YES Cinema HD [Multi-Sub]" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Hebrew - YES TV",IL: YES Cinema HD [Multi-Sub]
+#EXTINF:-1 tvg-ID="yes Israeli Cinema HD" tvg-name="IL: YES Cinema HD [Multi-Sub]" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Hebrew - YES TV",IL: YES Cinema HD [Multi-Sub]
 http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/26119
-#EXTINF:-1 tvg-ID="yesisraelicinema.il" tvg-name="IL: YES Cinema HD" tvg-logo="[" group-title="Hebrew - YES TV",IL: YES Cinema HD
+#EXTINF:-1 tvg-ID="yes Israeli Cinema HD" tvg-name="IL: YES Cinema HD" tvg-logo="[" group-title="Hebrew - YES TV",IL: YES Cinema HD
 http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16522
 #EXTINF:-1 tvg-ID="yestvcomedy.il" tvg-name="IL: YES+ Diamonds FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES+ Diamonds FHD
 http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193273
