@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="yes TV Action">
+    <display-name lang="he">yes TV Action</display-name>
+    <icon src="https://www.yes.co.il/media/uxjhlci2/19_yes-tv-action.png" />
+    <url>http://www.yes.co.il</url>
+  </channel>
+  <channel id="FreeTV לייף סטייל">
+    <display-name lang="he">FreeTV סדרות קומדיה</display-name>
+    <url>http://www.freetv.tv</url>
+  </channel>
+  <channel id="yes Israeli Cinema HD">
+    <display-name lang="he">yes Israeli Cinema HD</display-name>
+    <icon src="https://www.yes.co.il/media/w1knwmll/4_yes-israeli.png" />
+    <url>http://www.yes.co.il</url>
+  </channel>
+  <programme start="20260609190000 +0000" stop="20260609194500 +0000" channel="yes TV Action">
+    <title lang="he">חוק וסדר כוונה פלילית: טורונטו 3 - פרק 3</title>
+    <desc lang="he">הבלשים חוקרים את מותה המסתורי של אישה ששוחררה מהכלא לאחר הרשעה שנויה במחלוקת, והשניים נאלצים לבחון מחדש תיק רצח ישן כדי לחשוף את האמת.(n)</desc>
+  </programme>
+  <programme start="20260609194500 +0000" stop="20260609203000 +0000" channel="yes TV Action">
+    <title lang="he">אטומי - פרק 3</title>
+    <desc lang="he">מקס וג'יי-ג'יי מגיעים לתדמור ונתקלים שם בבעיה. כשג'יי-ג'יי רוצה לפרוש, מקס מספר לו על לטישיה. במקביל, קסנדרה ומארק מנסים להבין מה מקור האורניום ולמי הוא מיועד ועוקבים אחרי מקס וג'יי-ג'יי.(n)</desc>
+  </programme>
+  <programme start="20260609203000 +0000" stop="20260609213500 +0000" channel="yes TV Action">
+    <title lang="he">העיר שלנו - פרק סיום עונה</title>
+    <desc lang="he">פרק 8 - פרק סיום העונה. ג'יימי עדיין חושד במייקל, למרות הבטחתו לפרוש מהעסק. רייצ'ל וג'יימי חותרים לעסקה עם האלבנים ללא ידיעת האחרים. העימות בין ג'יימי למייקל מגיע לנקודת רתיחה כשדיאנה נלקחת כבת ערובה.(n)</desc>
+  </programme>
+  <programme start="20260609180100 +0000" stop="20260609194300 +0000" channel="yes Israeli Cinema HD">
+    <title lang="he">איים אבודים - שפת סימנים</title>
+    <desc lang="he">כפר סבא, 1980. האידיליה המשפחתית של משפ' לוי הגדולה והתוססת, נשברת כאשר האחים התאומים מתאהבים באותה נערה. עם: אורלי זילברשץ, מיכאל מושונוב, אושרי כהן, עפר שכטר, יובל שרף. בימוי: רשף לוי, 2008 כ' עב'. ש.ח.(n)</desc>
+  </programme>
+  <programme start="20260609194300 +0000" stop="20260609211700 +0000" channel="yes Israeli Cinema HD">
+    <title lang="he">חלב - בכורה!</title>
+    <desc lang="he">טאלה היא מוזיקאית מרוששת. בניסיון נואש להיחלץ מהמצוקה הכלכלית, היא מתחילה לעבוד במפעל בו אימהות טריות כמוה שואבות חלב כדי לספקו לאימהות בעלות אמצעים שאינן מעוניינות או יכולות להניק בעצמן. כ' עב'. ש.ח.(n)</desc>
+  </programme>
+</tv>
