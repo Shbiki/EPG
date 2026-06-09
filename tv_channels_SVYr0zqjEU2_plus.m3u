@@ -1,0 +1,550 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== Hebrew's =====" tvg-logo="" group-title="",===== Hebrew's =====
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/5962
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Kan 11 4K" tvg-logo="" group-title="Hebrew",IL: Kan 11 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162281
+#EXTINF:-1 tvg-ID="channel11.il" tvg-name="IL: Kan11 FHD" tvg-logo="[" group-title="Hebrew",IL: Kan11 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/18131
+#EXTINF:-1 tvg-ID="channel11.il" tvg-name="IL: Kan11 HD" tvg-logo="http://image.ibb.co/dJpKfn/kan11.png" group-title="Hebrew",IL: Kan11 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/3298
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Makan 4K" tvg-logo="" group-title="Hebrew",IL: Makan 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162290
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Makan FHD" tvg-logo="[" group-title="Hebrew",IL: Makan FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/18132
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Makan HD" tvg-logo="" group-title="Hebrew",IL: Makan HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/40335
+#EXTINF:-1 tvg-ID="channel9.il" tvg-name="IL: Channel 9 4K" tvg-logo="" group-title="Hebrew",IL: Channel 9 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162287
+#EXTINF:-1 tvg-ID="channel9.il" tvg-name="IL: Channel 9 FHD" tvg-logo="" group-title="Hebrew",IL: Channel 9 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/40334
+#EXTINF:-1 tvg-ID="channel9.il" tvg-name="IL: Channel 9" tvg-logo="https://image.ibb.co/dGvBo7/Channel9.png" group-title="Hebrew",IL: Channel 9
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6105
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Channel 12 4K" tvg-logo="" group-title="Hebrew",IL: Channel 12 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162282
+#EXTINF:-1 tvg-ID="12keshet.il" tvg-name="IL: Channel 12 FHD" tvg-logo="[" group-title="Hebrew",IL: Channel 12 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19374
+#EXTINF:-1 tvg-ID="12keshet.il" tvg-name="IL: Channel 12 HD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Hebrew",IL: Channel 12 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16272
+#EXTINF:-1 tvg-ID="12keshet.il" tvg-name="IL: Channel 12 SD" tvg-logo="https://image.ibb.co/bRapan/ch12.png" group-title="Hebrew",IL: Channel 12 SD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/14596
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Channel 13 4K" tvg-logo="" group-title="Hebrew",IL: Channel 13 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162283
+#EXTINF:-1 tvg-ID="13reshet.il" tvg-name="IL: Channel 13 FHD" tvg-logo="[" group-title="Hebrew",IL: Channel 13 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19375
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Channel 13 HD" tvg-logo="[" group-title="Hebrew",IL: Channel 13 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/20218
+#EXTINF:-1 tvg-ID="13reshet.il" tvg-name="IL: Channel 13 SD" tvg-logo="https://image.ibb.co/iyLcT7/ch13.png" group-title="Hebrew",IL: Channel 13 SD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/3299
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Channel 14 4K" tvg-logo="" group-title="Hebrew",IL: Channel 14 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162284
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Channel 14 HD" tvg-logo="" group-title="Hebrew",IL: Channel 14 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16514
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Channel 14 HD" tvg-logo="" group-title="Hebrew",IL: Channel 14 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/61503
+#EXTINF:-1 tvg-ID="channel20.il" tvg-name="IL: Channel 20" tvg-logo="https://preview.ibb.co/eD6j87/Channel20.png" group-title="Hebrew",IL: Channel 20
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/3301
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Channel 23 4K" tvg-logo="" group-title="Hebrew",IL: Channel 23 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162285
+#EXTINF:-1 tvg-ID="channelone.il" tvg-name="IL: Channel 23 FHD" tvg-logo="[" group-title="Hebrew",IL: Channel 23 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19376
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Channel 23 HD" tvg-logo="" group-title="Hebrew",IL: Channel 23 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/40771
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Channel 24 4K" tvg-logo="" group-title="Hebrew",IL: Channel 24 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162286
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Channel 24 FHD" tvg-logo="" group-title="Hebrew",IL: Channel 24 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/41254
+#EXTINF:-1 tvg-ID="24.il" tvg-name="IL: Channel 24" tvg-logo="https://image.ibb.co/dVt9an/Channel24.png" group-title="Hebrew",IL: Channel 24
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/3303
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Yam Tihoni" tvg-logo="https://image.ibb.co/dmS7T7/yamtihoni.png" group-title="Hebrew",IL: Yam Tihoni
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/12031
+#EXTINF:-1 tvg-ID="channelone.il" tvg-name="IL: Kan33" tvg-logo="[" group-title="Hebrew",IL: Kan33
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/14595
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Hala TV FHD" tvg-logo="[" group-title="Hebrew",IL: Hala TV FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19381
+#EXTINF:-1 tvg-ID="sportone.il" tvg-name="IL: ONE 1 4K" tvg-logo="" group-title="Hebrew - Sport",IL: ONE 1 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162291
+#EXTINF:-1 tvg-ID="channelone.il" tvg-name="IL: ONE 1 FHD P50" tvg-logo="" group-title="Hebrew - Sport",IL: ONE 1 FHD P50
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/83772
+#EXTINF:-1 tvg-ID="channelone.il" tvg-name="IL: ONE 1 FHD" tvg-logo="[" group-title="Hebrew - Sport",IL: ONE 1 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/21903
+#EXTINF:-1 tvg-ID="channelone.il" tvg-name="IL: ONE 1 HD" tvg-logo="[" group-title="Hebrew - Sport",IL: ONE 1 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/5956
+#EXTINF:-1 tvg-ID="one2.il" tvg-name="IL: ONE 2 4K" tvg-logo="" group-title="Hebrew - Sport",IL: ONE 2 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162292
+#EXTINF:-1 tvg-ID="one2.il" tvg-name="IL: ONE 2 FHD P50" tvg-logo="" group-title="Hebrew - Sport",IL: ONE 2 FHD P50
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/83773
+#EXTINF:-1 tvg-ID="one2.il" tvg-name="IL: ONE 2 FHD" tvg-logo="[" group-title="Hebrew - Sport",IL: ONE 2 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25827
+#EXTINF:-1 tvg-ID="one2.il" tvg-name="IL: ONE 2 HD" tvg-logo="[" group-title="Hebrew - Sport",IL: ONE 2 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19104
+#EXTINF:-1 tvg-ID="" tvg-name="IL: ONE DOCO FHD" tvg-logo="" group-title="Hebrew - Sport",IL: ONE DOCO FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173729
+#EXTINF:-1 tvg-ID="" tvg-name="IL: ONE EDGE FHD" tvg-logo="" group-title="Hebrew - Sport",IL: ONE EDGE FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173730
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Isreal Zero FHD" tvg-logo="" group-title="Hebrew - Sport",IL: Isreal Zero FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162289
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOT Zero One 1" tvg-logo="" group-title="Hebrew - Sport",IL: HOT Zero One 1
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168160
+#EXTINF:-1 tvg-ID="one2.il" tvg-name="IL: HOT Zero One 2" tvg-logo="" group-title="Hebrew - Sport",IL: HOT Zero One 2
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168161
+#EXTINF:-1 tvg-ID="sport1.il" tvg-name="IL: YES SPORT 1 FHD" tvg-logo="[" group-title="Hebrew - Sport",IL: YES SPORT 1 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/5958
+#EXTINF:-1 tvg-ID="sport1.il" tvg-name="IL: YES SPORT 1 HD" tvg-logo="[" group-title="Hebrew - Sport",IL: YES SPORT 1 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/20415
+#EXTINF:-1 tvg-ID="sport1.il" tvg-name="IL: YES SPORT 1" tvg-logo="[" group-title="Hebrew - Sport",IL: YES SPORT 1
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/297315
+#EXTINF:-1 tvg-ID="sport2.il" tvg-name="IL: YES SPORT 2 FHD" tvg-logo="[" group-title="Hebrew - Sport",IL: YES SPORT 2 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/21901
+#EXTINF:-1 tvg-ID="sport2.il" tvg-name="IL: YES SPORT 2 HD" tvg-logo="[" group-title="Hebrew - Sport",IL: YES SPORT 2 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/5957
+#EXTINF:-1 tvg-ID="sport3.il" tvg-name="IL: YES SPORT 3 FHD" tvg-logo="[" group-title="Hebrew - Sport",IL: YES SPORT 3 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/21899
+#EXTINF:-1 tvg-ID="sport3.il" tvg-name="IL: YES SPORT 3 HD" tvg-logo="[" group-title="Hebrew - Sport",IL: YES SPORT 3 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/11471
+#EXTINF:-1 tvg-ID="sport4.il" tvg-name="IL: YES SPORT 4 FHD" tvg-logo="[" group-title="Hebrew - Sport",IL: YES SPORT 4 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/21900
+#EXTINF:-1 tvg-ID="sport4.il" tvg-name="IL: YES SPORT 4 HD" tvg-logo="[" group-title="Hebrew - Sport",IL: YES SPORT 4 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/11472
+#EXTINF:-1 tvg-ID="sport2.il" tvg-name="IL: YES SPORT 6 FHD" tvg-logo="[" group-title="Hebrew - Sport",IL: YES SPORT 6 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/267995
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5 4K HDR" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5 4K HDR
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/205349
+#EXTINF:-1 tvg-ID="sport5.il" tvg-name="IL: Sport 5 4K" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/50637
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5+ UHD 4K" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5+ UHD 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162293
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5+ 4K" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5+ 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162294
+#EXTINF:-1 tvg-ID="sport5.il" tvg-name="IL: Sport 5 FHD P50" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5 FHD P50
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/83774
+#EXTINF:-1 tvg-ID="sport5.il" tvg-name="IL: Sport 5 FHD" tvg-logo="[" group-title="Hebrew - Sport",IL: Sport 5 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/20416
+#EXTINF:-1 tvg-ID="sport5.il" tvg-name="IL: Sport 5 HD" tvg-logo="[" group-title="Hebrew - Sport",IL: Sport 5 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19813
+#EXTINF:-1 tvg-ID="sport5.il" tvg-name="IL: Sport 5 SD" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5 SD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/41502
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5+ Max 4K" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5+ Max 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/274004
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5+ Max FHD" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5+ Max FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/267996
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5+ Live 4K" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5+ Live 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162296
+#EXTINF:-1 tvg-ID="5live.il" tvg-name="IL: Sport 5+ Live FHD P50" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5+ Live FHD P50
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/83775
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5+ Live FHD" tvg-logo="[" group-title="Hebrew - Sport",IL: Sport 5+ Live FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25825
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5+ Live HD" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5+ Live HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16521
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5+ Stars 4K" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5+ Stars 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162298
+#EXTINF:-1 tvg-ID="5stars.il" tvg-name="IL: Sport 5+ Stars FHD P50" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5+ Stars FHD P50
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/83776
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5+ Stars FHD" tvg-logo="[" group-title="Hebrew - Sport",IL: Sport 5+ Stars FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/5955
+#EXTINF:-1 tvg-ID="5stars.il" tvg-name="IL: Sport 5+ Stars HD" tvg-logo="[" group-title="Hebrew - Sport",IL: Sport 5+ Stars HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25826
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5+ Plus 4K" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5+ Plus 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162297
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5 Plus FHD" tvg-logo="[" group-title="Hebrew - Sport",IL: Sport 5 Plus FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/22315
+#EXTINF:-1 tvg-ID="sport5plus.il" tvg-name="IL: Sport 5 Plus" tvg-logo="https://image.ibb.co/mDPnT7/sport5online.png" group-title="Hebrew - Sport",IL: Sport 5 Plus
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/12823
+#EXTINF:-1 tvg-ID="5plusgold.il" tvg-name="IL: Sport 5+ Gold 4K" tvg-logo="" group-title="Hebrew - Sport",IL: Sport 5+ Gold 4K
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162295
+#EXTINF:-1 tvg-ID="5plusgold.il" tvg-name="IL: Sport 5 Gold" tvg-logo="https://image.ibb.co/cdY31S/sport5gold.jpg" group-title="Hebrew - Sport",IL: Sport 5 Gold
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/11725
+#EXTINF:-1 tvg-ID="FoxSportHD.il" tvg-name="IL: Fox Sport HD" tvg-logo="[" group-title="Hebrew - Sport",IL: Fox Sport HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/3341
+#EXTINF:-1 tvg-ID="eurosport.il" tvg-name="IL: Eurosport 1 HD" tvg-logo="" group-title="Hebrew - Sport",IL: Eurosport 1 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19377
+#EXTINF:-1 tvg-ID="eurosport2.il" tvg-name="IL: Eurosport 2 HD" tvg-logo="" group-title="Hebrew - Sport",IL: Eurosport 2 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19379
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Trace Spôrt Stars" tvg-logo="" group-title="Hebrew",IL: Trace Spôrt Stars
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/63091
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Extreme Sports" tvg-logo="" group-title="Hebrew - Sport",IL: Extreme Sports
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19514
+#EXTINF:-1 tvg-ID="yes TV Action" tvg-name="IL: YES TV Action FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES TV Action FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/45723
+#EXTINF:-1 tvg-ID="yes TV Action" tvg-name="IL: YES TV Action HD [Multi-Sub]" tvg-logo="https://image.ibb.co/fTogo7/YESACTIONHD.png" group-title="Hebrew - YES TV",IL: YES TV Action HD [Multi-Sub]
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16517
+#EXTINF:-1 tvg-ID="yes TV Action" tvg-name="IL: YES TV Action HD" tvg-logo="[" group-title="Hebrew - YES TV",IL: YES TV Action HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25833
+#EXTINF:-1 tvg-ID="yestvcomedy.il" tvg-name="IL: YES TV Comedy FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES TV Comedy FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/45725
+#EXTINF:-1 tvg-ID="yestvcomedy.il" tvg-name="IL: YES TV Comedy HD [Multi-Sub]" tvg-logo="https://preview.ibb.co/i2BZ87/yescomedyhd.png" group-title="Hebrew - YES TV",IL: YES TV Comedy HD [Multi-Sub]
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16518
+#EXTINF:-1 tvg-ID="yestvcomedy.il" tvg-name="IL: YES TV Comedy HD" tvg-logo="[" group-title="Hebrew - YES TV",IL: YES TV Comedy HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25837
+#EXTINF:-1 tvg-ID="yestvdrama,il" tvg-name="IL: YES TV Drama FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES TV Drama FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/45722
+#EXTINF:-1 tvg-ID="yestvdrama,il" tvg-name="IL: YES TV Drama HD [Multi-Sub]" tvg-logo="https://image.ibb.co/bP7Kan/yesdramahd.png" group-title="Hebrew - YES TV",IL: YES TV Drama HD [Multi-Sub]
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16520
+#EXTINF:-1 tvg-ID="yestvdrama,il" tvg-name="IL: YES TV Drama HD" tvg-logo="[" group-title="Hebrew - YES TV",IL: YES TV Drama HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25835
+#EXTINF:-1 tvg-ID="yesmoviesaction.il" tvg-name="IL: YES Movies Action FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES Movies Action FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/45721
+#EXTINF:-1 tvg-ID="yesmoviesaction.il" tvg-name="IL: YES Movies Action HD [Multi-Sub]" tvg-logo="https://image.ibb.co/b8mqgS/yes2hd.png" group-title="Hebrew - YES TV",IL: YES Movies Action HD [Multi-Sub]
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16513
+#EXTINF:-1 tvg-ID="yesmoviesaction.il" tvg-name="IL: YES Movies Action HD" tvg-logo="[" group-title="Hebrew - YES TV",IL: YES Movies Action HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25829
+#EXTINF:-1 tvg-ID="yesmovieskids.il" tvg-name="IL: YES Movies Kids FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES Movies Kids FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/45718
+#EXTINF:-1 tvg-ID="yesmovieskids.il" tvg-name="IL: YES Movies Kids HD [Multi-Sub]" tvg-logo="" group-title="Hebrew - YES TV",IL: YES Movies Kids HD [Multi-Sub]
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/60460
+#EXTINF:-1 tvg-ID="yesmoviesdrama.il" tvg-name="IL: YES Movies Drama FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES Movies Drama FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/45719
+#EXTINF:-1 tvg-ID="yesmoviesdrama.il" tvg-name="IL: YES Movies Drama HD [Multi-Sub]" tvg-logo="https://image.ibb.co/egEAgS/yes1hd.png" group-title="Hebrew - YES TV",IL: YES Movies Drama HD [Multi-Sub]
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16512
+#EXTINF:-1 tvg-ID="yesmoviesdrama.il" tvg-name="IL: YES Movies Drama HD" tvg-logo="[" group-title="Hebrew - YES TV",IL: YES Movies Drama HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25828
+#EXTINF:-1 tvg-ID="yesmoviescomedy.il" tvg-name="IL: YES Movies Comedy FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES Movies Comedy FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/45720
+#EXTINF:-1 tvg-ID="yesmoviescomedy.il" tvg-name="IL: YES Movies Comedy HD [Multi-Sub]" tvg-logo="https://image.ibb.co/cwbCvn/yes4hd.png" group-title="Hebrew - YES TV",IL: YES Movies Comedy HD [Multi-Sub]
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16515
+#EXTINF:-1 tvg-ID="yesmoviescomedy.il" tvg-name="IL: YES Movies Comedy HD" tvg-logo="[" group-title="Hebrew - YES TV",IL: YES Movies Comedy HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25831
+#EXTINF:-1 tvg-ID="yesdoku.il" tvg-name="IL: YES Docu FHD" tvg-logo="[" group-title="Hebrew - YES TV",IL: YES Docu FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25832
+#EXTINF:-1 tvg-ID="yesdoku.il" tvg-name="IL: YES Docu HD [Multi-Sub]" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Hebrew - YES TV",IL: YES Docu HD [Multi-Sub]
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16519
+#EXTINF:-1 tvg-ID="yesdoku.il" tvg-name="IL: YES Docu HD" tvg-logo="https://image.ibb.co/jRJsvn/yesdocuhd.png" group-title="Hebrew - YES TV",IL: YES Docu HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25834
+#EXTINF:-1 tvg-ID="yesisraelicinema.il" tvg-name="IL: YES Cinema HD [Multi-Sub]" tvg-logo="https://image.ibb.co/eCBean/yescinemahd.png" group-title="Hebrew - YES TV",IL: YES Cinema HD [Multi-Sub]
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/26119
+#EXTINF:-1 tvg-ID="yesisraelicinema.il" tvg-name="IL: YES Cinema HD" tvg-logo="[" group-title="Hebrew - YES TV",IL: YES Cinema HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16522
+#EXTINF:-1 tvg-ID="yestvcomedy.il" tvg-name="IL: YES+ Diamonds FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES+ Diamonds FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193273
+#EXTINF:-1 tvg-ID="yestvcomedy.il" tvg-name="IL: YES+ Cinema FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES+ Cinema FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193272
+#EXTINF:-1 tvg-ID="yestvcomedy.il" tvg-name="IL: YES Action World 1 FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES Action World 1 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/205201
+#EXTINF:-1 tvg-ID="yestvcomedy.il" tvg-name="IL: YES Action World 2 FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES Action World 2 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/205202
+#EXTINF:-1 tvg-ID="yestvcomedy.il" tvg-name="IL: YES PopUp FHD" tvg-logo="" group-title="Hebrew - YES TV",IL: YES PopUp FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/205203
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Asuta Doc FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Asuta Doc FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173701
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Series Global FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Series Global FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173705
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Israeli Movies FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Israeli Movies FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173706
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Movies 10 Stars FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Movies 10 Stars FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193835
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Movies Action FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Movies Action FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173707
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Movies Comedy FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Movies Comedy FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173708
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Movies Drama FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Movies Drama FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173709
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Movies Family FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Movies Family FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173710
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Movies Horror FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Movies Horror FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173711
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Movies Romance FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Movies Romance FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173712
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Imagin Comedy FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Imagin Comedy FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173715
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Imagin Cooking FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Imagin Cooking FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173716
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Imagin Doco FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Imagin Doco FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173717
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Imagin Drama FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Imagin Drama FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173718
+#EXTINF:-1 tvg-ID="" tvg-name="IL: FreeTV Imagin lifestyle FHD" tvg-logo="" group-title="Hebrew - FreeTV",IL: FreeTV Imagin lifestyle FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173719
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Cellcom TV Docu" tvg-logo="" group-title="Hebrew - Cellcom TV",IL: Cellcom TV Docu
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/205099
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Cellcom TV Family" tvg-logo="" group-title="Hebrew - Cellcom TV",IL: Cellcom TV Family
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193123
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Cellcom TV Foody" tvg-logo="" group-title="Hebrew - Cellcom TV",IL: Cellcom TV Foody
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/205106
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Cellcom TV HBO" tvg-logo="" group-title="Hebrew - Cellcom TV",IL: Cellcom TV HBO
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193125
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Cellcom TV Isreal" tvg-logo="" group-title="Hebrew - Cellcom TV",IL: Cellcom TV Isreal
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193122
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Cellcom TV Kids" tvg-logo="" group-title="Hebrew - Cellcom TV",IL: Cellcom TV Kids
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193124
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Cellcom TV Movies" tvg-logo="" group-title="Hebrew - Cellcom TV",IL: Cellcom TV Movies
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193121
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Cellcom TV Now" tvg-logo="" group-title="Hebrew - Cellcom TV",IL: Cellcom TV Now
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193120
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Cellcom TV YLD" tvg-logo="" group-title="Hebrew - Cellcom TV",IL: Cellcom TV YLD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/205101
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Cellcom TV YLD Songs" tvg-logo="" group-title="Hebrew - Cellcom TV",IL: Cellcom TV YLD Songs
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/205100
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Cellcom TV Yvin" tvg-logo="" group-title="Hebrew - Cellcom TV",IL: Cellcom TV Yvin
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193126
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Partner TV Comedy" tvg-logo="" group-title="Hebrew - Partner TV",IL: Partner TV Comedy
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193130
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Partner TV Kids" tvg-logo="" group-title="Hebrew - Partner TV",IL: Partner TV Kids
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193129
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Partner TV Movies" tvg-logo="" group-title="Hebrew - Partner TV",IL: Partner TV Movies
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193127
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Partner TV Netflix" tvg-logo="" group-title="Hebrew - Partner TV",IL: Partner TV Netflix
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193131
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Partner TV Series" tvg-logo="" group-title="Hebrew - Partner TV",IL: Partner TV Series
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/193128
+#EXTINF:-1 tvg-ID="hot3.il" tvg-name="IL: HOT 3 HD" tvg-logo="https://image.ibb.co/dNLu87/HOT3HD.png" group-title="Hebrew - HOT",IL: HOT 3 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6106
+#EXTINF:-1 tvg-ID="channel8.il" tvg-name="IL: HOT 8 HD" tvg-logo="https://image.ibb.co/fDRZ87/HOTChannel8.png" group-title="Hebrew - HOT",IL: HOT 8 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/8141
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: HOT REAL FHD" tvg-logo="https://image.ibb.co/j3gCvn/HOTHBOHD.png" group-title="Hebrew - HOT",IL: HOT REAL FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/202985
+#EXTINF:-1 tvg-ID="hotzone.il" tvg-name="IL: HOT ZONE HD" tvg-logo="https://image.ibb.co/cs8svn/HOTZONEHD.png" group-title="Hebrew - HOT",IL: HOT ZONE HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6107
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: HOT D FHD" tvg-logo="" group-title="Hebrew - HOT",IL: HOT D FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/41504
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: HOT D HD" tvg-logo="https://image.ibb.co/j3gCvn/HOTHBOHD.png" group-title="Hebrew - HOT",IL: HOT D HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6110
+#EXTINF:-1 tvg-ID="hotdrama.il" tvg-name="IL: HOT Cinema 1" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Cinema 1
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/23802
+#EXTINF:-1 tvg-ID="hotdrama.il" tvg-name="IL: HOT Cinema 1 HD" tvg-logo="https://image.ibb.co/jzqi1S/HOTDRAMAHD.png" group-title="Hebrew - HOT",IL: HOT Cinema 1 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6108
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: HOT Cinema 1 FHD" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Cinema 1 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/64397
+#EXTINF:-1 tvg-ID="hotaction.il" tvg-name="IL: HOT Cinema 2" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Cinema 2
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25821
+#EXTINF:-1 tvg-ID="hotaction.il" tvg-name="IL: HOT Cinema 2 HD" tvg-logo="https://image.ibb.co/gLZMo7/HOTACTIONHD.png" group-title="Hebrew - HOT",IL: HOT Cinema 2 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/5960
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: HOT Cinema 2 FHD" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Cinema 2 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/64338
+#EXTINF:-1 tvg-ID="hotgold.il" tvg-name="IL: HOT Cinema 3" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Cinema 3
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25822
+#EXTINF:-1 tvg-ID="hotgold.il" tvg-name="IL: HOT Cinema 3 HD" tvg-logo="https://image.ibb.co/c5Fu87/HOTGOLDHD.png" group-title="Hebrew - HOT",IL: HOT Cinema 3 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/5961
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: HOT Cinema 3 FHD" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Cinema 3 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/64339
+#EXTINF:-1 tvg-ID="hotfun.il" tvg-name="IL: HOT Cinema 4" tvg-logo="[" group-title="Hebrew - HOT",IL: HOT Cinema 4
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25823
+#EXTINF:-1 tvg-ID="hotfun.il" tvg-name="IL: HOT Cinema 4 HD" tvg-logo="https://image.ibb.co/gfWZ87/HOTFUNHD.png" group-title="Hebrew - HOT",IL: HOT Cinema 4 HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6109
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: HOT Cinema 4 FHD" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Cinema 4 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/64340
+#EXTINF:-1 tvg-ID="hotcomedy.il" tvg-name="IL: HOT Comedy Central HD" tvg-logo="https://image.ibb.co/m9EnT7/hotcomedycentralhd.png" group-title="Hebrew - HOT",IL: HOT Comedy Central HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6104
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: HOT Cinema Family FHD" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Cinema Family FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/41501
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: HOT Bidur" tvg-logo="https://image.ibb.co/erxVgS/hotentertainment.png" group-title="Hebrew - HOT",IL: HOT Bidur
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6102
+#EXTINF:-1 tvg-ID="hotbollywood.il" tvg-name="IL: HOT Bollywood HD" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Bollywood HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/20368
+#EXTINF:-1 tvg-ID="hotbombay.il" tvg-name="IL: HOT Bollyshow" tvg-logo="https://image.ibb.co/grF5Fn/hotbombay.png" group-title="Hebrew - HOT",IL: HOT Bollyshow
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/12028
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOT Design" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Design
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168165
+#EXTINF:-1 tvg-ID="kidz.il" tvg-name="IL: HOT Kidz" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Kidz
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168162
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOT Nofesh" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Nofesh
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168166
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOT Reality" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Reality
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168168
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOT Style" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Style
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168163
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOT Turkish Drama 1" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Turkish Drama 1
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168172
+#EXTINF:-1 tvg-ID="turkishdrama2.il" tvg-name="IL: HOT Turkish Drama 2" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Turkish Drama 2
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168173
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOT Turkish Drama 3" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Turkish Drama 3
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168174
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOT Vamos" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Vamos
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168167
+#EXTINF:-1 tvg-ID="vivaplus.il" tvg-name="IL: HOT Viva Premium" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Viva Premium
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168171
+#EXTINF:-1 tvg-ID="vivalive.il" tvg-name="IL: HOT Viva Vintage" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Viva Vintage
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168170
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOT Yam Tichoni" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Yam Tichoni
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168169
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOT Yam Tichoni plus" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Yam Tichoni plus
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168175
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOT Zoom Toom" tvg-logo="" group-title="Hebrew - HOT",IL: HOT Zoom Toom
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168164
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Bollywood HD" tvg-logo="" group-title="Hebrew",IL: Bollywood HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/62379
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Bollywood Cinema India FHD" tvg-logo="" group-title="Hebrew",IL: Bollywood Cinema India FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/185100
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Bollywood Serial FHD" tvg-logo="" group-title="Hebrew",IL: Bollywood Serial FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/185101
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Big Brother 26 FHD" tvg-logo="" group-title="Hebrew",IL: Big Brother 26 FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/41078
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Big Brother 26" tvg-logo="" group-title="Hebrew",IL: Big Brother 26
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/17205
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Classic FHD" tvg-logo="" group-title="Hebrew",IL: Classic FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/58502
+#EXTINF:-1 tvg-ID="homeandfamily.il" tvg-name="IL: Home Plus" tvg-logo="https://image.ibb.co/jGjbMS/HomePlus.png" group-title="Hebrew",IL: Home Plus
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6103
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Isreal Cinema HD" tvg-logo="" group-title="Hebrew",IL: Isreal Cinema HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/162288
+#EXTINF:-1 tvg-ID="MTV" tvg-name="IL: Walla+ FHD" tvg-logo="" group-title="Hebrew",IL: Walla+ FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/203100
+#EXTINF:-1 tvg-ID="viva.il" tvg-name="IL: VIVA" tvg-logo="https://image.ibb.co/htbean/VIVA.png" group-title="Hebrew",IL: VIVA
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/14531
+#EXTINF:-1 tvg-ID="vivaplus.il" tvg-name="IL: VIVA Plus" tvg-logo="https://image.ibb.co/htbean/VIVA.png" group-title="Hebrew",IL: VIVA Plus
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6101
+#EXTINF:-1 tvg-ID="zoom.il" tvg-name="IL: Zoom" tvg-logo="https://image.ibb.co/fsrj87/zOOM.png" group-title="Hebrew",IL: Zoom
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/8146
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: A+ Kids" tvg-logo="https://preview.ibb.co/eD6j87/Channel20.png" group-title="Hebrew",IL: A+ Kids
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/3340
+#EXTINF:-1 tvg-ID="" tvg-name="IL: A Plus FHD" tvg-logo="" group-title="Hebrew",IL: A Plus FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173700
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Baby FHD" tvg-logo="" group-title="Hebrew",IL: Baby FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173702
+#EXTINF:-1 tvg-ID="" tvg-name="IL: HOP Pele FHD" tvg-logo="" group-title="Hebrew",IL: HOP Pele FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173714
+#EXTINF:-1 tvg-ID="juniorchannel.il" tvg-name="IL: Junior FHD" tvg-logo="" group-title="Hebrew",IL: Junior FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173720
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Kids Channel FHD" tvg-logo="" group-title="Hebrew",IL: Kids Channel FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173723
+#EXTINF:-1 tvg-ID="" tvg-name="IL: logi FHD" tvg-logo="" group-title="Hebrew",IL: logi FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173725
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Logi" tvg-logo="" group-title="Hebrew",IL: Logi
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/34679
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Yalduti FHD" tvg-logo="" group-title="Hebrew",IL: Yalduti FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173733
+#EXTINF:-1 tvg-ID="juniorchannel.il" tvg-name="IL: Yalduti HD" tvg-logo="[" group-title="Hebrew",IL: Yalduti HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19512
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Yalduti Songs FHD" tvg-logo="" group-title="Hebrew",IL: Yalduti Songs FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173734
+#EXTINF:-1 tvg-ID="" tvg-name="IL: YOYO FHD" tvg-logo="" group-title="Hebrew",IL: YOYO FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173735
+#EXTINF:-1 tvg-ID="hope.il" tvg-name="IL: HOP" tvg-logo="https://image.ibb.co/cSYsvn/HOPIL.png" group-title="Hebrew",IL: HOP
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16062
+#EXTINF:-1 tvg-ID="hotlollypop.il" tvg-name="IL: HOP YALDUT" tvg-logo="https://image.ibb.co/cSYsvn/HOPIL.png" group-title="Hebrew",IL: HOP YALDUT
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6114
+#EXTINF:-1 tvg-ID="disneychannel.il" tvg-name="IL: Disney HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Hebrew",IL: Disney HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/9574
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Disney Jr" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Hebrew",IL: Disney Jr
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/9575
+#EXTINF:-1 tvg-ID="nickelodeon.il" tvg-name="IL: Nickelodeon" tvg-logo="" group-title="Hebrew",IL: Nickelodeon
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19515
+#EXTINF:-1 tvg-ID="nickjr.il" tvg-name="IL: Nick Jr" tvg-logo="https://image.ibb.co/b5Jgo7/NickJr.png" group-title="Hebrew",IL: Nick Jr
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6113
+#EXTINF:-1 tvg-ID="teennick.il" tvg-name="IL: NickTeen" tvg-logo="https://image.ibb.co/kA3svn/Nickelodeon.png" group-title="Hebrew",IL: NickTeen
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6112
+#EXTINF:-1 tvg-ID="yesbaby.il" tvg-name="IL: Baby TV" tvg-logo="https://image.ibb.co/dsvNvn/BabyTV.png" group-title="Hebrew",IL: Baby TV
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/6111
+#EXTINF:-1 tvg-ID="kidz.il" tvg-name="IL: Yes Wiz" tvg-logo="https://image.ibb.co/f56Z87/logi.png" group-title="Hebrew",IL: Yes Wiz
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/12035
+#EXTINF:-1 tvg-ID="luly.il" tvg-name="IL: Luli" tvg-logo="https://preview.ibb.co/buiE87/lulitv.png" group-title="Hebrew",IL: Luli
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/12034
+#EXTINF:-1 tvg-ID="juniorchannel.il" tvg-name="IL: Junior" tvg-logo="https://image.ibb.co/dyZzan/Junior.png" group-title="Hebrew",IL: Junior
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/8143
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: JLTV HD" tvg-logo="" group-title="Hebrew",IL: JLTV HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/63093
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Turkish Dramas FHD" tvg-logo="" group-title="Hebrew",IL: Turkish Dramas FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/34819
+#EXTINF:-1 tvg-ID="turkishdrama2.il" tvg-name="IL: Turkish Dramas 2" tvg-logo="" group-title="Hebrew",IL: Turkish Dramas 2
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/45726
+#EXTINF:-1 tvg-ID="animalplanet.il" tvg-name="IL: Animal planet" tvg-logo="" group-title="Hebrew",IL: Animal planet
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/35323
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: BBC entertainement" tvg-logo="" group-title="Hebrew",IL: BBC entertainement
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/41503
+#EXTINF:-1 tvg-ID="cbsreality.il" tvg-name="IL: IETV" tvg-logo="http://image.ibb.co/cBTqmS/cbsreality.png" group-title="Hebrew",IL: IETV
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/14723
+#EXTINF:-1 tvg-ID="discovery.il" tvg-name="IL: Discovery HD" tvg-logo="https://preview.ibb.co/k0UnT7/discoveryhd.png" group-title="Hebrew",IL: Discovery HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/7342
+#EXTINF:-1 tvg-ID="disneychannel.il" tvg-name="IL: DIY Channel FHD" tvg-logo="" group-title="Hebrew",IL: DIY Channel FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/23716
+#EXTINF:-1 tvg-ID="E ערוץ הבידור.il" tvg-name="IL: E! Entertainment" tvg-logo="http://image.ibb.co/e0GbRS/entertainment.png" group-title="Hebrew",IL: E! Entertainment
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/14639
+#EXTINF:-1 tvg-ID="totalego.il" tvg-name="IL: Ego Total" tvg-logo="http://preview.ibb.co/fv3efn/egototal.png" group-title="Hebrew - Sport",IL: Ego Total
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/12586
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Erez Nehederet FHD" tvg-logo="" group-title="Hebrew",IL: Erez Nehederet FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173703
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Fashion Isreal HD" tvg-logo="" group-title="Hebrew",IL: Fashion Isreal HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/41252
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Viva Telenovelas" tvg-logo="https://image.ibb.co/mjJxT7/fineliving.png" group-title="Hebrew",IL: Viva Telenovelas
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/12029
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Fomo FHD" tvg-logo="" group-title="Hebrew",IL: Fomo FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173704
+#EXTINF:-1 tvg-ID="foodchannel.il" tvg-name="IL: Food Channel" tvg-logo="https://image.ibb.co/nKHVgS/foodchannel.png" group-title="Hebrew",IL: Food Channel
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/7341
+#EXTINF:-1 tvg-ID="foodchannel.il" tvg-name="IL: Food Network HD" tvg-logo="[" group-title="Hebrew",IL: Food Network HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/22645
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Fox Business HD" tvg-logo="" group-title="Hebrew",IL: Fox Business HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/42009
+#EXTINF:-1 tvg-ID="goodlifechannel.il" tvg-name="IL: GoodLife" tvg-logo="https://image.ibb.co/bCrCvn/goodlife.png" group-title="Hebrew",IL: GoodLife
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/16283
+#EXTINF:-1 tvg-ID="" tvg-name="IL: GTV" tvg-logo="" group-title="Hebrew",IL: GTV
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/169203
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Hatunami POPUP FHD" tvg-logo="" group-title="Hebrew",IL: Hatunami POPUP FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173713
+#EXTINF:-1 tvg-ID="healthchannel.il" tvg-name="IL: Health Channel" tvg-logo="http://image.ibb.co/mi2GRS/healthchannel.png" group-title="Hebrew",IL: Health Channel
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/12032
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Hidabroot Channel" tvg-logo="http://image.ibb.co/iecSY7/hidabroot.png" group-title="Hebrew",IL: Hidabroot Channel
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/7343
+#EXTINF:-1 tvg-ID="historychannel.il" tvg-name="IL: History" tvg-logo="" group-title="Hebrew",IL: History
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/22644
+#EXTINF:-1 tvg-ID="historychannel.il" tvg-name="IL: History HD" tvg-logo="https://image.ibb.co/gcNkFn/History_HD.png" group-title="Hebrew",IL: History HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/8142
+#EXTINF:-1 tvg-ID="i24news בעברית.il" tvg-name="IL: i 24" tvg-logo="http://image.ibb.co/eZDefn/i24.png" group-title="Hebrew",IL: i 24
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/12299
+#EXTINF:-1 tvg-ID="i24news בעברית.il" tvg-name="IL: i 24 Hebrew" tvg-logo="" group-title="Hebrew",IL: i 24 Hebrew
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/170528
+#EXTINF:-1 tvg-ID="i24arabic.il" tvg-name="IL: i 24 Arabic HD" tvg-logo="" group-title="Hebrew",IL: i 24 Arabic HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/189425
+#EXTINF:-1 tvg-ID="i24arabic.il" tvg-name="IL: i 24 English HD" tvg-logo="" group-title="Hebrew",IL: i 24 English HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/268033
+#EXTINF:-1 tvg-ID="i24arabic.il" tvg-name="IL: i 24 Francais HD" tvg-logo="" group-title="Hebrew",IL: i 24 Francais HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/268032
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: ID" tvg-logo="" group-title="Hebrew",IL: ID
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/63092
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Investigation Discovery" tvg-logo="" group-title="Hebrew",IL: Investigation Discovery
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/41253
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: Israel Shopping Channel" tvg-logo="" group-title="Hebrew",IL: Israel Shopping Channel
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19513
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Karaoke FHD" tvg-logo="" group-title="Hebrew",IL: Karaoke FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173721
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Viva Istanbul FHD" tvg-logo="" group-title="Hebrew",IL: Viva Istanbul FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173722
+#EXTINF:-1 tvg-ID="mtv2.il" tvg-name="IL: Knesset" tvg-logo="https://image.ibb.co/fpzzan/mikan.png" group-title="Hebrew",IL: Knesset
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/12033
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Knesset FHD" tvg-logo="" group-title="Hebrew",IL: Knesset FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173724
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Lifetime" tvg-logo="https://image.ibb.co/fgBO1S/Lifetime.png" group-title="Hebrew",IL: Lifetime
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/12030
+#EXTINF:-1 tvg-ID="historychannel.il" tvg-name="IL: Me TV" tvg-logo="" group-title="Hebrew",IL: Me TV
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/23122
+#EXTINF:-1 tvg-ID="mtv.il" tvg-name="IL: MTV Hits" tvg-logo="" group-title="Hebrew",IL: MTV Hits
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/42010
+#EXTINF:-1 tvg-ID="MTV" tvg-name="IL: MTV Isreal" tvg-logo="http://www.camdserver.com/sb_data/files/logo/mtv.jpg" group-title="Hebrew",IL: MTV Isreal
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/9573
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Music IL FHD" tvg-logo="" group-title="Hebrew",IL: Music IL FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173726
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Music IL HD" tvg-logo="" group-title="Hebrew",IL: Music IL HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168159
+#EXTINF:-1 tvg-ID="natgeowild.il" tvg-name="IL: National Geo Wild" tvg-logo="https://preview.ibb.co/jbvi1S/natgeohd.png" group-title="Hebrew",IL: National Geo Wild
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/7344
+#EXTINF:-1 tvg-ID="natgeowild.il" tvg-name="IL: National Geo Wild HD" tvg-logo="" group-title="Hebrew",IL: National Geo Wild HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/40775
+#EXTINF:-1 tvg-ID="natgeohd.il" tvg-name="IL: National Geographic" tvg-logo="https://preview.ibb.co/jbvi1S/natgeohd.png" group-title="Hebrew",IL: National Geographic
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/9571
+#EXTINF:-1 tvg-ID="natgeohd.il" tvg-name="IL: National Geographic HD" tvg-logo="" group-title="Hebrew",IL: National Geographic HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/40774
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Game Show" tvg-logo="" group-title="Hebrew",IL: Game Show
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/183906
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Next Star POPUP FHD" tvg-logo="" group-title="Hebrew",IL: Next Star POPUP FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173727
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Ninja POPUP FHD" tvg-logo="" group-title="Hebrew",IL: Ninja POPUP FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173728
+#EXTINF:-1 tvg-ID="realitychannel.il" tvg-name="IL: Reality HD" tvg-logo="" group-title="Hebrew",IL: Reality HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168157
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Savri FHD" tvg-logo="" group-title="Hebrew",IL: Savri FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173731
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Starz FHD" tvg-logo="" group-title="Hebrew",IL: Starz FHD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/173732
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: The Humor Channel" tvg-logo="" group-title="Hebrew",IL: The Humor Channel
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/19380
+#EXTINF:-1 tvg-ID="NULL" tvg-name="IL: TLC" tvg-logo="" group-title="Hebrew",IL: TLC
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/35322
+#EXTINF:-1 tvg-ID="" tvg-name="IL: Together HD" tvg-logo="" group-title="Hebrew",IL: Together HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/168158
+#EXTINF:-1 tvg-ID="travelchannel.il" tvg-name="IL: Travel Channel" tvg-logo="https://image.ibb.co/iPQu87/Travel_Channel.png" group-title="Hebrew",IL: Travel Channel
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/7340
+#EXTINF:-1 tvg-ID="travelchannel.il" tvg-name="IL: Travel HD" tvg-logo="[" group-title="Hebrew",IL: Travel HD
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/25824
+#EXTINF:-1 tvg-ID="vh1.il" tvg-name="IL: VH1" tvg-logo="" group-title="Hebrew",IL: VH1
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/42007
+#EXTINF:-1 tvg-ID="vh1classic.il" tvg-name="IL: VH1 Classic" tvg-logo="" group-title="Hebrew",IL: VH1 Classic
+http://luckytvpro.com:8080/SVYr0zqjEU2/3Jz60ByHT9/42008
